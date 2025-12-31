@@ -14,9 +14,13 @@ This project provides a Google Colab notebook that converts markdown-formatted m
 ## Features
 
 ✨ **Automated Conversion**: Converts markdown to Google Docs with a single click
+
 📝 **Smart Formatting**: Preserves document structure and hierarchy
+
 ☑️ **Checkbox Support**: Markdown `- [ ]` becomes actual Google Docs checkboxes
+
 👤 **Mention Styling**: @mentions are automatically styled with bold blue text
+
 🔒 **Secure Authentication**: Uses Google Colab's built-in authentication
 
 ## Requirements
@@ -94,7 +98,6 @@ meet-to-doc/
 │
 ├── markdown_to_google_doc.ipynb    # Main Colab notebook
 ├── README.md                        # This file
-└── sample_output/                   # Example outputs (optional)
 ```
 
 ## How It Works
